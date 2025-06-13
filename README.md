@@ -19,7 +19,7 @@ c470_00_lobby_Hiccup_RedHoodClothesLess
   - Double-click on _install_requirements.bat_ to install the required dependencies and Python 3.13.
   - Download and install [Microsoft C++ Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe), and after that install the necessary dependencies following [this video guide](https://files.catbox.moe/vqsuix.mp4).
   
-  NOTE: The requirements listed in "requirements.txt" are only for my GUI script, you will need to install the ones necessary for anosu's Spine Viewer separately (Electron, Node.js, etc) if you want to build the Spine viewer yourself.
+  NOTE: The requirements listed in "requirements.txt" are only for my GUI script, you will need to install the ones necessary for anosu's Spine Viewer separately (Electron, Node.js, etc) if you want to build the Spine viewer yourself. If you're not interested to build the Spine viewer then ignore this, the mod manager will download the portable version of the viewer ready for usage automatically when you install the requirements.
 
 
 
