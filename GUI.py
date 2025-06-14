@@ -115,6 +115,7 @@ class SpineViewer(QWidget):
         self.setGeometry(100, 100, 1200, 800)
         self.viewer_processes = []
         self.character_data = []
+        self.character_url_data = []
 
         # Run automatic updaters first
         self.check_json_updates()
@@ -125,6 +126,7 @@ class SpineViewer(QWidget):
         self.settings = self.load_settings()
         self.naps_settings = self.load_naps_settings()
         self.load_character_data()
+        self.load_character_url_data()
 
         self.set_windows11_dark_theme()
 
@@ -200,19 +202,46 @@ class SpineViewer(QWidget):
         self.naps_edit.textChanged.connect(self.naps_path_changed)
 
     def load_character_data(self):
-        json_path = os.path.join("AddressablesJSON", "lobby_burst_merged_data.json")
-        try:
-            with open(json_path, 'r', encoding='utf-8') as f:
-                self.character_data = json.load(f)
-        except Exception as e:
-            print(f"Error loading character data: {e}")
-            self.character_data = []
+        self.character_data = []
+        
+        files_to_load = [
+            os.path.join("AddressablesJSON", "lobby_burst_merged_data.json"),
+            os.path.join("AddressablesJSON", "lobby_event_data.json")
+        ]
+        
+        for file_path in files_to_load:
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    self.character_data.extend(json.load(f))
+            except FileNotFoundError:
+                print(f"Data file not found: {file_path}")
+            except Exception as e:
+                print(f"Error loading character data from {file_path}: {e}")
+
+    def load_character_url_data(self):
+        self.character_url_data = []
+        
+        files_to_load = [
+            os.path.join("AddressablesJSON", "lobby_burst_merged_data_URL.json"),
+            os.path.join("AddressablesJSON", "lobby_event_data_URL.json")
+        ]
+
+        for file_path in files_to_load:
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    self.character_url_data.extend(json.load(f))
+            except FileNotFoundError:
+                print(f"URL data file not found: {file_path}")
+            except Exception as e:
+                print(f"Error loading character URL data from {file_path}: {e}")
 
     def check_json_updates(self):
         """Checks for updates to JSON data files from GitHub and overwrites them if different."""
         files_to_check = {
             "lobby_burst_merged_data.json": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/AddressablesJSON/lobby_burst_merged_data.json",
-            "lobby_burst_merged_data_URL.json": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/AddressablesJSON/lobby_burst_merged_data_URL.json"
+            "lobby_burst_merged_data_URL.json": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/AddressablesJSON/lobby_burst_merged_data_URL.json",
+            "lobby_event_data.json": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/AddressablesJSON/lobby_event_data.json",
+            "lobby_event_data_URL.json": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/AddressablesJSON/lobby_event_data_URL.json"
         }
 
         local_dir = "AddressablesJSON"
@@ -231,10 +260,18 @@ class SpineViewer(QWidget):
                 update_required = not os.path.exists(local_path)
 
                 if not update_required:
-                    with open(local_path, 'r', encoding='utf-8') as f_local, \
-                         open(temp_path, 'r', encoding='utf-8') as f_temp:
-                        if f_local.read() != f_temp.read():
-                            update_required = True
+                    # Compare file content to see if an update is needed
+                    try:
+                        with open(local_path, 'r', encoding='utf-8') as f_local, \
+                             open(temp_path, 'r', encoding='utf-8') as f_temp:
+                            if json.load(f_local) != json.load(f_temp):
+                                update_required = True
+                    except (json.JSONDecodeError, UnicodeDecodeError):
+                        # Fallback to text comparison if JSON parsing fails
+                        with open(local_path, 'r', encoding='utf-8', errors='ignore') as f_local, \
+                             open(temp_path, 'r', encoding='utf-8', errors='ignore') as f_temp:
+                            if f_local.read() != f_temp.read():
+                                update_required = True
                 
                 if update_required:
                     shutil.copy(temp_path, local_path)
@@ -249,29 +286,35 @@ class SpineViewer(QWidget):
                     os.remove(temp_path)
 
     def check_csv_updates(self):
-        github_url = "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/Codes_and_Names.csv"
-        local_path = "Codes_and_Names.csv"
+        csv_files_to_check = {
+            "Codes_and_Names.csv": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/Codes_and_Names.csv",
+            "Codes_and_Names_EventLobby.csv": "https://raw.githubusercontent.com/kxdekxde/nikke-lobbyburst-mod-manager/refs/heads/main/Codes_and_Names_EventLobby.csv"
+        }
         
-        try:
-            temp_path = os.path.join(tempfile.gettempdir(), "temp_Codes_and_Names.csv")
-            if download_file(github_url, temp_path):
-                if os.path.exists(local_path):
-                    with open(local_path, 'r', encoding='utf-8') as local_file:
-                        local_content = local_file.read()
-                    with open(temp_path, 'r', encoding='utf-8') as temp_file:
-                        remote_content = temp_file.read()
-                    
-                    if local_content != remote_content:
+        for local_path, github_url in csv_files_to_check.items():
+            try:
+                temp_path = os.path.join(tempfile.gettempdir(), f"temp_{os.path.basename(local_path)}")
+                if download_file(github_url, temp_path):
+                    update_required = False
+                    if os.path.exists(local_path):
+                        with open(local_path, 'r', encoding='utf-8') as local_file:
+                            local_content = local_file.read()
+                        with open(temp_path, 'r', encoding='utf-8') as temp_file:
+                            remote_content = temp_file.read()
+                        
+                        if local_content != remote_content:
+                            update_required = True
+                    else:
+                        update_required = True # File doesn't exist locally
+
+                    if update_required:
                         shutil.copy(temp_path, local_path)
-                        print("Updated Codes_and_Names.csv from GitHub")
-                else:
-                    shutil.copy(temp_path, local_path)
-                    print("Downloaded Codes_and_Names.csv from GitHub")
-                
-                if os.path.exists(temp_path):
-                    os.remove(temp_path)
-        except Exception as e:
-            print(f"Error checking for CSV updates: {e}")
+                        print(f"Updated/Downloaded {local_path} from GitHub.")
+                    
+                    if os.path.exists(temp_path):
+                        os.remove(temp_path)
+            except Exception as e:
+                print(f"Error checking for updates for {local_path}: {e}")
 
     def set_windows11_dark_theme(self):
         app = QApplication.instance()
@@ -436,16 +479,20 @@ class SpineViewer(QWidget):
 
     def load_character_map(self):
         character_map = {}
-        try:
-            with open("Codes_and_Names.csv", newline='', encoding='utf-8') as csvfile:
-                reader = csv.DictReader(csvfile)
-                for row in reader:
-                    character_map[row['ID']] = {
-                        'character': row['CHARACTER'],
-                        'id': row['ID']
-                    }
-        except Exception as e:
-            print(f"Error loading character map: {e}")
+        csv_files = ["Codes_and_Names.csv", "Codes_and_Names_EventLobby.csv"]
+        for file_path in csv_files:
+            if not os.path.exists(file_path):
+                continue
+            try:
+                with open(file_path, newline='', encoding='utf-8') as csvfile:
+                    reader = csv.DictReader(csvfile)
+                    for row in reader:
+                        character_map[row['ID']] = {
+                            'character': row['CHARACTER'],
+                            'id': row['ID']
+                        }
+            except Exception as e:
+                print(f"Error loading character map from {file_path}: {e}")
         return character_map
 
     def load_settings(self):
@@ -493,17 +540,34 @@ class SpineViewer(QWidget):
             'character': 'Unknown',
             'id': 'Unknown',
             'author': 'Unknown',
-            'skin': '00',
+            'skin': 'N/A',
             'type': 'Unknown',
             'mod_name': 'Unknown',
             'extension': os.path.splitext(filename)[1]
         }
         
         try:
-            parts = basename.split('_')
+            # Split filename by hyphen, the new delimiter
+            parts = basename.split('-')
             
-            if len(parts) >= 5:
-                info['id'] = parts[0]
+            if not parts:
+                return info
+
+            mod_id = parts[0]
+            is_event_mod = mod_id.startswith("eventscene_") or mod_id.startswith("eventtitle_")
+
+            # Event Mod format: [ID]-[type]-[Author]-[ModName]
+            # Example: eventtitle_neverland_02-lobby-Na0h-NudeWaifusOnsen
+            if is_event_mod and len(parts) >= 4:
+                info['id'] = mod_id
+                info['type'] = parts[1]
+                info['author'] = parts[2]
+                info['mod_name'] = ' '.join(parts[3:])
+            
+            # Standard Mod format: [ID]-[skin_code]-[type]-[Author]-[ModName]
+            # Example: c470-00-lobby-Hiccup-RedHoodHalfNude
+            elif not is_event_mod and len(parts) >= 5:
+                info['id'] = mod_id
                 info['skin'] = parts[1]
                 info['type'] = parts[2]
                 info['author'] = parts[3]
@@ -576,15 +640,25 @@ class SpineViewer(QWidget):
         mod_id = mod_info['id']
         skin_code = mod_info['skin']
         mod_type = mod_info['type'].lower()
+        is_event_mod = mod_id.startswith("eventscene_") or mod_id.startswith("eventtitle_")
 
         for char_data in self.character_data:
-            if char_data['ID'] == mod_id and char_data['skin_code'] == skin_code:
-                target_id_key = f"{mod_type}_id"
+            # Match condition for event mods (ID only)
+            is_match = is_event_mod and char_data.get('ID') == mod_id
+            # Match condition for standard mods (ID and skin_code)
+            if not is_event_mod:
+                is_match = char_data.get('ID') == mod_id and char_data.get('skin_code') == skin_code
+
+            if is_match:
+                # Event mods are always lobby type, standard mods can be lobby or burst
+                target_id_key = "lobby_id" if is_event_mod else f"{mod_type}_id"
                 if target_id_key in char_data:
                     target_id = char_data[target_id_key]
                     naps_size = self.get_naps_file_size(target_id)
                     if naps_size and naps_size == mod_size:
                         return "Active"
+                # Found the character, no need to continue loop
+                return "Inactive"
         return "Inactive"
 
     def load_mods(self):
@@ -725,7 +799,6 @@ class SpineViewer(QWidget):
                 shutil.rmtree(temp_renaming, ignore_errors=True)
 
     def deactivate_mod(self, row):
-        # Get mod info from the table
         id_item = self.table_widget.item(row, 1)
         skin_item = self.table_widget.item(row, 3)
         type_item = self.table_widget.item(row, 5)
@@ -737,65 +810,60 @@ class SpineViewer(QWidget):
             QMessageBox.warning(self, "Error", "Could not find mod file reference.")
             return
 
-        # Prepare paths
         script_dir = os.path.dirname(os.path.abspath(__file__))
         mods_folder = self.settings.get("mods_folder", "")
         naps_folder = self.naps_settings.get("naps_folder", "")
-        temp_renaming_dir = os.path.join(script_dir, "temp-renaming")
         temp_download_dir = os.path.join(script_dir, "temp-download")
 
-        # Ensure NAPS folder is set
         if not naps_folder or not os.path.isdir(naps_folder):
             QMessageBox.warning(self, "Error", "NAPS folder path is not set or invalid.")
             return
 
-        # Create temp directories
-        os.makedirs(temp_renaming_dir, exist_ok=True)
         os.makedirs(temp_download_dir, exist_ok=True)
 
         try:
-            # 1. Copy mod file to temp-renaming
-            original_mod_path = os.path.join(mods_folder, original_mod_filename)
-            if os.path.exists(original_mod_path):
-                shutil.copy2(original_mod_path, temp_renaming_dir)
-            else:
-                QMessageBox.warning(self, "Error", f"Mod file not found at {original_mod_path}")
-                return
+            mod_id = id_item.text()
+            skin_code = skin_item.text()
+            mod_type = type_item.text().lower()
+            is_event_mod = mod_id.startswith("eventscene_") or mod_id.startswith("eventtitle_")
 
-            # 2. Load URL data
-            url_json_path = os.path.join(script_dir, "AddressablesJSON", "lobby_burst_merged_data_URL.json")
-            with open(url_json_path, 'r', encoding='utf-8') as f:
-                url_data = json.load(f)
-
-            # 3. Find download URL and target hash
             download_url = None
             target_hash = None
-            mod_type_key = type_item.text().lower()
-            url_key = f"{mod_type_key}_id" if mod_type_key == "burst" else f"{mod_type_key}_id" # Handles 'burst_id', 'lobby_id'
-            
-            # Find URL from lobby_burst_merged_data_URL.json
-            for char_url_data in url_data:
-                if char_url_data.get('ID') == id_item.text() and char_url_data.get('skin_code') == skin_item.text():
-                    download_url = char_url_data.get(url_key)
+            url_data = self.character_url_data
+
+            # Find URL and HASH
+            for i, char_data in enumerate(self.character_data):
+                match = False
+                if is_event_mod and char_data.get('ID') == mod_id:
+                    match = True
+                elif not is_event_mod and char_data.get('ID') == mod_id and char_data.get('skin_code') == skin_code:
+                    match = True
+
+                if match:
+                    hash_key = 'lobby_id' if is_event_mod else f"{mod_type}_id"
+                    target_hash = char_data.get(hash_key)
+                    # Now find the corresponding URL
+                    for char_url_data in url_data:
+                        url_match = False
+                        if is_event_mod and char_url_data.get('ID') == mod_id:
+                             url_match = True
+                        elif not is_event_mod and char_url_data.get('ID') == mod_id and char_url_data.get('skin_code') == skin_code:
+                             url_match = True
+                        
+                        if url_match:
+                            download_url = char_url_data.get(hash_key)
+                            break
                     break
             
             if not download_url:
-                QMessageBox.warning(self, "Error", f"Could not find download URL for {mod_type_key} type.")
+                QMessageBox.warning(self, "Error", "Could not find the download URL for the original file.")
+                return
+            if not target_hash:
+                QMessageBox.warning(self, "Error", "Could not determine the original file hash name.")
                 return
 
-            # Find target hash from lobby_burst_merged_data.json (already loaded in self.character_data)
-            hash_key = f"{mod_type_key}_id"
-            for char_data in self.character_data:
-                 if char_data.get('ID') == id_item.text() and char_data.get('skin_code') == skin_item.text():
-                     target_hash = char_data.get(hash_key)
-                     break
-            
-            if not target_hash:
-                 QMessageBox.warning(self, "Error", "Could not determine the original file hash name.")
-                 return
-
-            # 4. Download original file
-            downloaded_file_basename = os.path.basename(download_url).split('?')[0] # remove query params if any
+            # Download original file
+            downloaded_file_basename = os.path.basename(download_url).split('?')[0]
             download_path = os.path.join(temp_download_dir, downloaded_file_basename)
             
             progress_dialog = QProgressDialog("Downloading original file...", "Cancel", 0, 100, self)
@@ -811,31 +879,28 @@ class SpineViewer(QWidget):
             urllib.request.urlretrieve(download_url, download_path, reporthook=update_progress)
             progress_dialog.setValue(100)
 
-            # 5. Rename downloaded file to its hash
+            # Rename downloaded file to its hash and replace in NAPS
             renamed_path = os.path.join(temp_download_dir, target_hash)
             os.rename(download_path, renamed_path)
             
-            # 6. Find and replace file in NAPS folder
-            found = False
+            found_and_replaced = False
             for root, _, files in os.walk(naps_folder):
                 if target_hash in files:
                     target_path = os.path.join(root, target_hash)
                     shutil.move(renamed_path, target_path)
-                    found = True
+                    found_and_replaced = True
                     break
             
-            if found:
+            if found_and_replaced:
                 QMessageBox.information(self, "Success", "Original file restored successfully.")
                 self.load_mods()
-                self.filter_mods() # Re-apply filter
+                self.filter_mods()
             else:
                 QMessageBox.warning(self, "Error", f"Could not find matching file hash '{target_hash}' in NAPS folder.")
                 
         except Exception as e:
             QMessageBox.critical(self, "Error", f"Failed to deactivate mod: {str(e)}")
         finally:
-            # 7. Cleanup
-            shutil.rmtree(temp_renaming_dir, ignore_errors=True)
             shutil.rmtree(temp_download_dir, ignore_errors=True)
 
 
