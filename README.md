@@ -1,4 +1,4 @@
-# NIKKE LobbyBurst Mod Manager
+# NIKKE Lobby/Burst Mod Manager
 A tool that uses a modified version of [anosu Spine Viewer](https://github.com/anosu/Spine-Viewer) to view [NIKKE](https://nikke-en.com/) Spine animations from modded bundles, and it works to manage your lobby/burst mods. The tool basically replaces original files with a copy of your modded files when you "activate" the mod, and it restores the original file replacing the copy of the modded file when you "deactivate" the mod.
 
 ### The script to download the viewer uses [NicKoehler's mediafire bulk downloader](https://github.com/NicKoehler/mediafire_bulk_downloader).
