@@ -13,7 +13,7 @@ c470-00-lobby-Hiccup-RedHoodClothesLess
 eventtitle_neverland_02-lobby-Na0h-NudeWaifusOnsen
 ```
 
-
+To know how you should rename your event lobby mods go to the folder `AddressablesJSON` and check out the "ID" values in the JSON file `lobby_event_data.json`.
 
 ## Requirements to use the tool:
 
@@ -30,7 +30,7 @@ eventtitle_neverland_02-lobby-Na0h-NudeWaifusOnsen
 1. Go to your NMM **"mods"** folder and create a new folder **"lobby_burst"**.
 2. Move your mods renamed to the specific name structure described above on this readme, to that created folder **"lobby_burst"**.
 
-<img src="https://files.catbox.moe/awq4yk.png" width="500"/>
+<img src="https://files.catbox.moe/6ia001.png" width="500"/>
 
 3. Double-click on _LBMM.bat_ to launch the mod manager.
 4. The manager will ask you for the path to your NMM **"lobby_burst"** folder path and the **"naps"** folder path, click OK on the message box.
