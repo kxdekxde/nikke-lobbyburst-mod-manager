@@ -4,12 +4,13 @@ A tool that uses a modified version of [anosu Spine Viewer](https://github.com/a
 ### The script to download the viewer uses [NicKoehler's mediafire bulk downloader](https://github.com/NicKoehler/mediafire_bulk_downloader).
 
 
-#### IMPORTANT: This mod manager works with a specific name structure for the modded files `[ID]_[skin_code]_[type]_[Author]_[ModName]`, examples:
+#### IMPORTANT: This mod manager works with a specific name structure for the modded files that is `[ID]-[skin_code]-[type]-[Author]-[ModName]` and for the event lobby files is `[ID]-[type]-[Author]-[ModName]`, examples:
 ```
-c010_00_lobby_Swapper_EVESkin03SwapOverRapi
-c162_01_lobby_Na0h_MiharaCake
-c470_00_burst_Hiccup_RedHoodClothesLess
-c470_00_lobby_Hiccup_RedHoodClothesLess
+c010-00-lobby-Swapper-EVESkin03SwapOverRapi
+c162-01-lobby-Na0h-MiharaCake
+c470-00-burst-Hiccup-RedHoodClothesLess
+c470-00-lobby-Hiccup-RedHoodClothesLess
+eventtitle_neverland_02-lobby-Na0h-NudeWaifusOnsen
 ```
 
 
