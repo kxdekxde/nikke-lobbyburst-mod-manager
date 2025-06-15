@@ -55,7 +55,7 @@
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_ce_03_01_1de59cf6eebab83ed3299f50ee136d7c.bundle"
     },
     {
-        "Character": "Evangelion2ndCollab1",
+        "Character": "Evangelion2ndCollab2",
         "ID": "eventscene_ce005_02",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_ce005_02_d73ff4ff5fa25ffdacbc1a111aadfa15.bundle"
     },
@@ -160,117 +160,117 @@
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_chap_26_02_afc89bdda5d55ae636b659b8d8700811.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "CherryBlossom",
         "ID": "eventscene_cherryblossom_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_cherryblossom_01_cc7b48313d50b490178b7d922990a0e8.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "ClayMore",
         "ID": "eventscene_claymore_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_claymore_01_1ad399e2e4b04a341e66d504d6cb760e.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "COLORLESS",
         "ID": "eventscene_colorless_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_colorless_01_122468ac02b249e458ea631e44b3e24e.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "DarkHero",
         "ID": "eventscene_darkhero_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_darkhero_01_8fb44329ad3a4eaf202129bc0313aad9.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "DazzlingCupidTia",
         "ID": "eventscene_dazzlingcupid_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_dazzlingcupid_01_e7c1f484d30ddb08b457beb8f28e0ce9.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "DazzlingCupidNaga",
         "ID": "eventscene_dazzlingcupid_02",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_dazzlingcupid_02_96012cb0dab1aae3599c194e31fb435e.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "DirtyBackyard",
         "ID": "eventscene_dirtybackyard_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_dirtybackyard_01_1ccfbd49e107ce51fa33a9116bd23862.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "D-Outsider",
         "ID": "eventscene_d-outsider_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_d-outsider_01_661eff25c2a379436f2ab24c88f8db8a.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "FOOTSTEPWALKRUN",
         "ID": "eventscene_footstepwalkrun_06_2",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_footstepwalkrun_06_2_c26804bcb52ed72a9ee0e3cc7faba75c.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "FORREST",
         "ID": "eventscene_forrest_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_forrest_01_07b4d3b319ceccda6a82c6105e26226a.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "GoldenCoinRush",
         "ID": "eventscene_goldencoinrush_02",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_goldencoinrush_02_d599555e39045eee9f656545b1eacbaf.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "GoldenShip",
         "ID": "eventscene_goldenship_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_goldenship_01_8f60c33ea0ee0f5f0538a977ef081947.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "HighTechToy",
         "ID": "eventscene_hightechtoy_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_hightechtoy_01_aae5584e4ae2e46d575021dfeb407747.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "IceDragonSaga",
         "ID": "eventscene_icedragonsaga_03",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_icedragonsaga_03_acde0304d0f9ce278769ea79473d8eee.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "JinxPlayer",
         "ID": "eventscene_jinxplayer_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_jinxplayer_01_9a25b7de0578c8458819bbe0c2bc4fef.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "JuvenileDays",
         "ID": "eventscene_juveniledays_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_juveniledays_01_3586774bb5f944bdbf968201bfe37650.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "KillTheLordDJUICYASS",
         "ID": "eventscene_killthelord_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_killthelord_01_9a89c32543c212d4fc937583d65e42ee.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "LifeAgain",
         "ID": "eventscene_lifeagain_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_lifeagain_01_1700cfe2116956a6a785a26b1c5d4099.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "LionHeart",
         "ID": "eventscene_lionheart_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_lionheart_01_1fcb64045cfbea7d8651c284b9a0ccbf.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "LordForJustice",
         "ID": "eventscene_lordforjustice_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_lordforjustice_01_bc5f81d7c1ced3afd0d07d2d5935de2e.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "LicenseToKill",
         "ID": "eventscene_ltk_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_ltk_01_282337c0ac2847b1b1e60d93ab64f9eb.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "MaidInValentine",
         "ID": "eventscene_maidinvalentine_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_maidinvalentine_01_bcdfca1f35fbfa0c66a9106f72972ea3.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "Marian",
         "ID": "eventscene_main_01_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_main_01_01_f2fd3b1789d66c0c99c85f941fa4ffa0.bundle"
     },
@@ -285,77 +285,77 @@
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_main_01_03_d70f77d2b670e5f9b75aefb087c0efd3.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "MemoriesTellerStellarBladeCollab1",
         "ID": "eventscene_memoriesteller_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_memoriesteller_01_4c9fa596df47999942dac4ade9e6a29d.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "MemoriesTellerStellarBladeCollab2",
         "ID": "eventscene_memoriesteller_02",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_memoriesteller_02_f26538d3d96847ab7bf249f8cbe52187.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "MiracleSnow",
         "ID": "eventscene_miraclesnow_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_miraclesnow_01_65b73ac54ad772b7a98e12ca7df8dd52.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "NewFlavor",
         "ID": "eventscene_newflavor_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_newflavor_01_660fe797b763a65c3bc568e3c9ad41b5.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "NewYearNewSword",
         "ID": "eventscene_newyearnewsword_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_newyearnewsword_01_7badec80cbd08f5c327c71c85148d383.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "NoCallerID",
         "ID": "eventscene_nocallerid_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_nocallerid_01_863478095418566d9cd672a3d6c20354.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "NyaNyaParadise",
         "ID": "eventscene_nyanyaparadise_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_nyanyaparadise_01_d2df48713291e2f8f47f8106606c066a.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "OldTales1",
         "ID": "eventscene_oldtales_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_oldtales_01_229bb2fbcb76a6cf2532e16fbe251cc4.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "OldTales2",
         "ID": "eventscene_oldtales_02",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_oldtales_02_2af30404c682419ade2a2d8a60ca5124.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "OneMoreTime",
         "ID": "eventscene_onemoretime_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_onemoretime_01_df8a8e93bf90b91a59b2297307ee6cc3.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "OVERZONE",
         "ID": "eventscene_overzone_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_overzone_01_3fcd87853adaad01659686c9591b657a.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "PerfectMaid",
         "ID": "eventscene_perfectmaid_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_perfectmaid_01_cb492f6758201cd976445e414bd92be3.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "PhantomThiefVSDetective",
         "ID": "eventscene_phantomthiefvsdetective_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_phantomthiefvsdetective_01_b4f1edfa5b828d13167c85a12414bb61.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "QueensOrder",
         "ID": "eventscene_queensorder_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_queensorder_01_a62e954512cbb3249cfee003e668cb02.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "RedAsh",
         "ID": "eventscene_redash_05_1",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_redash_05_1_49152461fcbad0162d64a9912261d4e9.bundle"
     },
@@ -370,52 +370,52 @@
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_redash_11_15ef302ca9f916ea5d6e72c7fa389147.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "RomanticValentine",
         "ID": "eventscene_romanticvalentine_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_romanticvalentine_01_9dd1f4f5b1e622544317c820938d47c9.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "SchoolOfLock",
         "ID": "eventscene_schooloflock_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_schooloflock_01_5009c05b0ab16ac16a6786f4a47cc7bb.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "SeaYouAgain",
         "ID": "eventscene_seayouagain_04",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_seayouagain_04_bfe2a381ea9a9638fb614354fc07eded.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "SecretGarden",
         "ID": "eventscene_secretgarden_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_secretgarden_01_af36d30e3c724dd8e647fa9ca19c9ea5.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "TrueFlavor",
         "ID": "eventscene_trueflavor_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_trueflavor_01_4c07c9aa69eec121e653d7f7445640c4.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "UnbreakableSphere",
         "ID": "eventscene_unbreakablesphere_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_unbreakablesphere_01_07101f82431475e633c004bd0c1f174f.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "WisdomSpring",
         "ID": "eventscene_wisdomspring_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventscene_wisdomspring_01_0a8790e83fb094d8c3bb15cbc131b8bd.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "Evangelion1stCollab",
         "ID": "eventtitle_ce004_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventtitle_ce004_01_421b5d7b880aa7400de849918ebe4b48.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "Evangelion2ndCollab1",
         "ID": "eventtitle_ce005_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventtitle_ce005_01_1962aa01e333da2574940824f4cd377b.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "LastKingdom",
         "ID": "eventtitle_lastkingdom_03",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventtitle_lastkingdom_03_13ec3ff3a3e1e58d8b64b3a1fd3e40d4.bundle"
     },
@@ -425,12 +425,12 @@
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(hd)_assets_spine/events/eventtitle_neverland_02_4c29b41deb189fa91f32ad46b31a7b41.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "Evangelion1stCollab",
         "ID": "eventtitle_ce004_01",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(sd)_assets_spine/events/eventtitle_ce004_01_b7ae3e339c062044f7431663e04e3160.bundle"
     },
     {
-        "Character": "Unknown",
+        "Character": "LastKingdom",
         "ID": "eventtitle_lastkingdom_03",
         "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spineeventscenesgroup(sd)_assets_spine/events/eventtitle_lastkingdom_03_239169ab08b02aee0af50bb2f1127802.bundle"
     }
