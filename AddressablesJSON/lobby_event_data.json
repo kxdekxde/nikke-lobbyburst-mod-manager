@@ -423,15 +423,5 @@
         "Character": "LudmillaOnsenNEVERLAND",
         "ID": "eventtitle_neverland_02",
         "lobby_id": "4c29b41deb189fa91f32ad46b31a7b41"
-    },
-    {
-        "Character": "Evangelion1stCollab",
-        "ID": "eventtitle_ce004_01",
-        "lobby_id": "b7ae3e339c062044f7431663e04e3160"
-    },
-    {
-        "Character": "LastKingdom",
-        "ID": "eventtitle_lastkingdom_03",
-        "lobby_id": "239169ab08b02aee0af50bb2f1127802"
     }
 ]
