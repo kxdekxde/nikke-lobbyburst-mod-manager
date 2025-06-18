@@ -755,6 +755,9 @@ class SpineViewer(QWidget):
         temp_renaming = os.path.join(script_dir, "temp-renaming")
         
         try:
+            # Store current scroll position
+            scroll_value = self.table_widget.verticalScrollBar().value()
+
             original_path = os.path.join(mods_folder, original_filename)
             if not os.path.exists(original_path):
                 QMessageBox.warning(self, "Error", f"Could not find mod file: {original_filename}")
@@ -789,6 +792,9 @@ class SpineViewer(QWidget):
             QMessageBox.information(self, "Success", "Mod activated successfully!")
             self.load_mods()
             self.filter_mods() # Re-apply filter
+            
+            # Restore scroll position after reload and filter
+            self.table_widget.verticalScrollBar().setValue(scroll_value)
 
         except subprocess.CalledProcessError as e:
             QMessageBox.critical(self, "Error", f"A script failed to execute: {str(e)}")
@@ -822,6 +828,9 @@ class SpineViewer(QWidget):
         os.makedirs(temp_download_dir, exist_ok=True)
 
         try:
+            # Store current scroll position
+            scroll_value = self.table_widget.verticalScrollBar().value()
+
             mod_id = id_item.text()
             skin_code = skin_item.text()
             mod_type = type_item.text().lower()
@@ -895,6 +904,8 @@ class SpineViewer(QWidget):
                 QMessageBox.information(self, "Success", "Original file restored successfully.")
                 self.load_mods()
                 self.filter_mods()
+                # Restore scroll position after reload and filter
+                self.table_widget.verticalScrollBar().setValue(scroll_value)
             else:
                 QMessageBox.warning(self, "Error", f"Could not find matching file hash '{target_hash}' in NAPS folder.")
                 
