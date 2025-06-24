@@ -2,9 +2,9 @@
 setlocal
 
 :: Set the paths
-set SCRIPT_NAME=LBMM.bat
+set SCRIPT_NAME=NLBMM.bat
 set ICON_NAME=icon.ico
-set SHORTCUT_NAME=LBMM.lnk
+set SHORTCUT_NAME=NLBMM.lnk
 
 :: Get the current directory
 set "CURRENT_DIR=%~dp0"
