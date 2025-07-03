@@ -3,1176 +3,1183 @@
         "Character": "Rapi",
         "ID": "c010",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c010_00_cut_scene_8188c3360409cf75be22517d3c9abda4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c010_cutscene_f1000126c836797781736e4ea1f35f40.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c010_00_cut_scene_8188c3360409cf75be22517d3c9abda4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c010_cutscene_f1000126c836797781736e4ea1f35f40.bundle"
     },
     {
         "Character": "Neon",
         "ID": "c011",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c011_00_cut_scene_decfc685f66aab40346b91cdccdabed4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c011_cutscene_bf8ff87439080a375e9cc6725832c4ca.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c011_00_cut_scene_decfc685f66aab40346b91cdccdabed4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c011_cutscene_bf8ff87439080a375e9cc6725832c4ca.bundle"
     },
     {
         "Character": "Anis",
         "ID": "c012",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c012_00_cut_scene_08f5f91c1e0bb7e8294cf935bf4c119c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c012_cutscene_383dd5129ae145d4cb95cc913cbfb146.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c012_00_cut_scene_08f5f91c1e0bb7e8294cf935bf4c119c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c012_cutscene_383dd5129ae145d4cb95cc913cbfb146.bundle"
     },
     {
         "Character": "Marian",
         "ID": "c013",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c013_00_cut_scene_d8ef2ee333d2f42a63c5ff9eacd986b5.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c013_cutscene_f595497f7d4b898412a367152cb5e8de.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c013_00_cut_scene_d8ef2ee333d2f42a63c5ff9eacd986b5.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c013_cutscene_f595497f7d4b898412a367152cb5e8de.bundle"
     },
     {
         "Character": "Neon Blue Ocean",
         "ID": "c014",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c014_00_cut_scene_7036b8a66a983ab509bb925c793c8c19.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c014_cutscene_54d6e1598c971ff55bb65ee4c5a54e96.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c014_00_cut_scene_7036b8a66a983ab509bb925c793c8c19.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c014_cutscene_54d6e1598c971ff55bb65ee4c5a54e96.bundle"
     },
     {
         "Character": "Anis Sparkling Summer",
         "ID": "c015",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c015_00_cut_scene_3ec768c26f3467c08385e8476c79a224.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c015_cutscene_8c5959b3d849f523ee85cdc3b97ac0c6.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c015_00_cut_scene_3ec768c26f3467c08385e8476c79a224.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c015_cutscene_8c5959b3d849f523ee85cdc3b97ac0c6.bundle"
     },
     {
         "Character": "Rapi Red Hood",
         "ID": "c016",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c016_00_cut_scene_e63c598e5f1e302e8ea0376dcf608fbb.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_cutscene_92c5c3f5b7e61d460f111ad54efd205b.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c016_00_cut_scene_e63c598e5f1e302e8ea0376dcf608fbb.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_cutscene_92c5c3f5b7e61d460f111ad54efd205b.bundle"
     },
     {
         "Character": "Signal",
         "ID": "c022",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c022_00_cut_scene_69512b72d29b4cfff1db565922996e8a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c022_cutscene_40297fd1f3f39e3ae26cc283e4ffc058.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c022_00_cut_scene_69512b72d29b4cfff1db565922996e8a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c022_cutscene_40297fd1f3f39e3ae26cc283e4ffc058.bundle"
     },
     {
         "Character": "Poli",
         "ID": "c030",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c030_00_cut_scene_40b393be3d53379a108fbf0577230753.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c030_cutscene_c6d77c88ca23e60cc480bd2f25c1526e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c030_00_cut_scene_40b393be3d53379a108fbf0577230753.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c030_cutscene_c6d77c88ca23e60cc480bd2f25c1526e.bundle"
     },
     {
         "Character": "Miranda",
         "ID": "c032",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c032_00_cut_scene_325b9e56dc0bf6b2a5c04a67c48d17b7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c032_cutscene_e28c9ad70cc982596ca158e83a444752.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c032_00_cut_scene_325b9e56dc0bf6b2a5c04a67c48d17b7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c032_cutscene_e28c9ad70cc982596ca158e83a444752.bundle"
     },
     {
         "Character": "Quiry",
         "ID": "c033",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c033_00_cut_scene_56108816f9e3137a5c6b840d08e12a90.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c033_cutscene_bd879a2f8871eed2e747c7b1e9955904.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c033_00_cut_scene_56108816f9e3137a5c6b840d08e12a90.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c033_cutscene_bd879a2f8871eed2e747c7b1e9955904.bundle"
     },
     {
         "Character": "D",
         "ID": "c040",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c040_00_cut_scene_2a8f514a83b9382c6b8d81b444aa45b8.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c040_cutscene_ea0215f4e7de4f18108f010b714792c4.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c040_00_cut_scene_2a8f514a83b9382c6b8d81b444aa45b8.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c040_cutscene_ea0215f4e7de4f18108f010b714792c4.bundle"
     },
     {
         "Character": "K",
         "ID": "c041",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c041_00_cut_scene_c03d4110068399709b91fb7f6c518e89.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c041_cutscene_422b78fe0907a9a6e69bd6004b3cc8d0.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c041_00_cut_scene_c03d4110068399709b91fb7f6c518e89.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c041_cutscene_422b78fe0907a9a6e69bd6004b3cc8d0.bundle"
     },
     {
         "Character": "D Killer Wife",
         "ID": "c043",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c043_00_cut_scene_164d3d5b41d69c2775ea417588a0cb8c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c043_cutscene_f4fdcc5bbaeae69f2c794a0c609b0752.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c043_00_cut_scene_164d3d5b41d69c2775ea417588a0cb8c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c043_cutscene_f4fdcc5bbaeae69f2c794a0c609b0752.bundle"
     },
     {
         "Character": "Mica Snow Buddy",
         "ID": "c062",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c062_00_cut_scene_64a087cbe4c2614a5fe93e94e60e4e08.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c062_cutscene_da5fcab145a03cf1c2b73e353dc86679.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c062_00_cut_scene_64a087cbe4c2614a5fe93e94e60e4e08.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c062_cutscene_da5fcab145a03cf1c2b73e353dc86679.bundle"
     },
     {
         "Character": "Brid",
         "ID": "c070",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c070_00_cut_scene_14442e842c0b670e5aacad76f6fb3c72.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c070_cutscene_b838896f844dfeedbfedc2476b821b30.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c070_00_cut_scene_14442e842c0b670e5aacad76f6fb3c72.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c070_cutscene_b838896f844dfeedbfedc2476b821b30.bundle"
     },
     {
         "Character": "Soline",
         "ID": "c071",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c071_00_cut_scene_cd78f7aa38c89a33a31666350c999af7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c071_cutscene_e943194e21cab032bab9a41ab639a671.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c071_00_cut_scene_cd78f7aa38c89a33a31666350c999af7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c071_cutscene_e943194e21cab032bab9a41ab639a671.bundle"
     },
     {
         "Character": "Diesel",
         "ID": "c072",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c072_00_cut_scene_8be25f0a052b5849e32004f3ddeba6ca.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c072_cutscene_7b7eb7cdd7f8b1693c6614c637b32f58.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c072_00_cut_scene_8be25f0a052b5849e32004f3ddeba6ca.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c072_cutscene_7b7eb7cdd7f8b1693c6614c637b32f58.bundle"
     },
     {
         "Character": "Centi",
         "ID": "c080",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c080_00_cut_scene_7322924b3a0b6bd815df63fbc09fddb4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c080_cutscene_b37039377e048126883c3495e4f9fe88.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c080_00_cut_scene_7322924b3a0b6bd815df63fbc09fddb4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c080_cutscene_b37039377e048126883c3495e4f9fe88.bundle"
     },
     {
         "Character": "Liter",
         "ID": "c082",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c082_00_cut_scene_8453ba4c877ab6369187ab28108342b7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c082_cutscene_71bb17f798cc9b97c97b836d19e6091f.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c082_00_cut_scene_8453ba4c877ab6369187ab28108342b7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c082_cutscene_71bb17f798cc9b97c97b836d19e6091f.bundle"
     },
     {
         "Character": "Emma",
         "ID": "c090",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c090_00_cut_scene_91e9624725d1072ffdb9d677e2b74608.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c090_cutscene_590c7196f5d6edbfe1b2dad6cb4de4be.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c090_00_cut_scene_91e9624725d1072ffdb9d677e2b74608.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c090_cutscene_590c7196f5d6edbfe1b2dad6cb4de4be.bundle"
     },
     {
         "Character": "Vesti",
         "ID": "c091",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c091_00_cut_scene_5fded68f2d52dab68d039cba8333d1c5.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c091_cutscene_38bcbde38173e633a4c05a07b89ad057.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c091_00_cut_scene_5fded68f2d52dab68d039cba8333d1c5.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c091_cutscene_38bcbde38173e633a4c05a07b89ad057.bundle"
     },
     {
         "Character": "Eunhwa",
         "ID": "c092",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c092_00_cut_scene_e31b0f0f57f13dfa382ef475588ce4c6.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c092_cutscene_2e1060863ef4ccc00d2266f07688ad42.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c092_00_cut_scene_e31b0f0f57f13dfa382ef475588ce4c6.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c092_cutscene_2e1060863ef4ccc00d2266f07688ad42.bundle"
     },
     {
         "Character": "Laplace",
         "ID": "c100",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c100_00_cut_scene_a5f75edc79dea23eec539f10bf069146.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c100_cutscene_9f6fdea98ea12b622ab44193902f6105.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c100_00_cut_scene_a5f75edc79dea23eec539f10bf069146.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c100_cutscene_9f6fdea98ea12b622ab44193902f6105.bundle"
     },
     {
         "Character": "Drake",
         "ID": "c101",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c101_00_cut_scene_ddf0418c420f1591ee86a83c2d517436.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_cutscene_2814b6555b317c6238f79183c392e590.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c101_00_cut_scene_ddf0418c420f1591ee86a83c2d517436.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_cutscene_2814b6555b317c6238f79183c392e590.bundle"
     },
     {
         "Character": "Drake",
         "ID": "c101",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c101_01_cut_scene_984b95f6db95c236f56b7ab80647728d.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_01_cutscene_9e0f5aa30ad0b9659427d7f75552c4ad.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c101_01_cut_scene_984b95f6db95c236f56b7ab80647728d.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_01_cutscene_9e0f5aa30ad0b9659427d7f75552c4ad.bundle"
     },
     {
         "Character": "Maxwell",
         "ID": "c102",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c102_00_cut_scene_0dee4e11decba2c37c80982fc2d43ba0.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c102_cutscene_2ed31d1dc33fe5aa1344cc1accbe9281.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c102_00_cut_scene_0dee4e11decba2c37c80982fc2d43ba0.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c102_cutscene_2ed31d1dc33fe5aa1344cc1accbe9281.bundle"
     },
     {
         "Character": "Crow",
         "ID": "c110",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c110_00_cut_scene_66f53fae31bf1ff641d242e1ebcc4953.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c110_cutscene_ad087b2619244a79c054ce16451d87db.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c110_00_cut_scene_66f53fae31bf1ff641d242e1ebcc4953.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c110_cutscene_ad087b2619244a79c054ce16451d87db.bundle"
     },
     {
         "Character": "Jackal",
         "ID": "c111",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c111_00_cut_scene_525882b78222ba119a4535bbca4c92a3.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c111_cutscene_0218d36db3303f9d5c3ca25205850757.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c111_00_cut_scene_525882b78222ba119a4535bbca4c92a3.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c111_cutscene_0218d36db3303f9d5c3ca25205850757.bundle"
     },
     {
         "Character": "Viper",
         "ID": "c112",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c112_00_cut_scene_4f489571ebe4065310c8f5f0df9e9474.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_cutscene_a9eba35a29baa1c71399651a2d211bbd.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c112_00_cut_scene_4f489571ebe4065310c8f5f0df9e9474.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_cutscene_a9eba35a29baa1c71399651a2d211bbd.bundle"
     },
     {
         "Character": "Viper",
         "ID": "c112",
         "skin_code": "02",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c112_02_cut_scene_25ae998c622de25ff19be7c77101df5a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_02_cutscene_bee1e3016e0728c534a38687195540d9.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c112_02_cut_scene_25ae998c622de25ff19be7c77101df5a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_02_cutscene_bee1e3016e0728c534a38687195540d9.bundle"
     },
     {
         "Character": "Miracle Fairy Anne",
         "ID": "c121",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c121_00_cut_scene_0a4293ee6dcaf4be17653c0fb35c6d6a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c121_cutscene_58861daa9a3dc88f1b5afafebde66917.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c121_00_cut_scene_0a4293ee6dcaf4be17653c0fb35c6d6a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c121_cutscene_58861daa9a3dc88f1b5afafebde66917.bundle"
     },
     {
         "Character": "Mary",
         "ID": "c130",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c130_00_cut_scene_82ce84fc48d76a416d4d74162bd636a7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c130_cutscene_ef4653c96114a2cd0b1ba772563de1d9.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c130_00_cut_scene_82ce84fc48d76a416d4d74162bd636a7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c130_cutscene_ef4653c96114a2cd0b1ba772563de1d9.bundle"
     },
     {
         "Character": "Pepper",
         "ID": "c131",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c131_00_cut_scene_069ea3e252064bc0dfb2833ea5c131ec.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c131_cutscene_ff5d665afbd34f07735bb99e1e495fb3.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c131_00_cut_scene_069ea3e252064bc0dfb2833ea5c131ec.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c131_cutscene_ff5d665afbd34f07735bb99e1e495fb3.bundle"
     },
     {
         "Character": "Mary Bay Goddess",
         "ID": "c132",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c132_00_cut_scene_3953dab095c5351e14fde0f996ddd58f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c132_cutscene_3a890625eb50c774cf229a1fb689bafa.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c132_00_cut_scene_3953dab095c5351e14fde0f996ddd58f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c132_cutscene_3a890625eb50c774cf229a1fb689bafa.bundle"
     },
     {
         "Character": "Sugar",
         "ID": "c140",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c140_00_cut_scene_0d5a9ab218946ca589fa4b2753507993.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c140_cutscene_b12472de1ae769c2e3b5f1065897be5e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c140_00_cut_scene_0d5a9ab218946ca589fa4b2753507993.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c140_cutscene_b12472de1ae769c2e3b5f1065897be5e.bundle"
     },
     {
         "Character": "Milk",
         "ID": "c141",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c141_00_cut_scene_7912db98e69619afbde48d46c10412ba.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c141_cutscene_166afaf4f0e737c0eb950128d2f96139.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c141_00_cut_scene_7912db98e69619afbde48d46c10412ba.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c141_cutscene_166afaf4f0e737c0eb950128d2f96139.bundle"
     },
     {
         "Character": "Frima",
         "ID": "c142",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c142_00_cut_scene_dcb6cbe96e806895c9d5d20d71358949.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c142_cutscene_f6099b8bcd22a72258bb1c528e83f92a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c142_00_cut_scene_dcb6cbe96e806895c9d5d20d71358949.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c142_cutscene_f6099b8bcd22a72258bb1c528e83f92a.bundle"
     },
     {
         "Character": "Julia",
         "ID": "c150",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c150_00_cut_scene_1a83af331f5322f9372f796aa89e1078.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c150_cutscene_9cf45ff21876afc721e8e7bfd1d72cfc.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c150_00_cut_scene_1a83af331f5322f9372f796aa89e1078.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c150_cutscene_9cf45ff21876afc721e8e7bfd1d72cfc.bundle"
     },
     {
         "Character": "Yuni",
         "ID": "c160",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c160_00_cut_scene_22f5c40e89229986881a7ed1a3076c61.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c160_cutscene_87ff79afe66d414f853142a911dd4154.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c160_00_cut_scene_22f5c40e89229986881a7ed1a3076c61.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c160_cutscene_87ff79afe66d414f853142a911dd4154.bundle"
     },
     {
         "Character": "Mihara Bonding Chain",
         "ID": "c162",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c162_00_cut_scene_175efb8f07bf533403c390a8a3fc8746.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_cutscene_21b45764f2b7faaf53bc1ab5e46facd4.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c162_00_cut_scene_175efb8f07bf533403c390a8a3fc8746.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_cutscene_21b45764f2b7faaf53bc1ab5e46facd4.bundle"
     },
     {
         "Character": "Mihara Bonding Chain",
         "ID": "c162",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c162_01_cut_scene_b3fca011206384835d647a0d8b5340bb.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_01_cutscene_2534a96a5fe0e94fb8438f9e92e923c9.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c162_01_cut_scene_b3fca011206384835d647a0d8b5340bb.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_01_cutscene_2534a96a5fe0e94fb8438f9e92e923c9.bundle"
     },
     {
         "Character": "Privaty",
         "ID": "c170",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c170_00_cut_scene_777f1ba75b757a63beac8c62014d6f75.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c170_cutscene_5ae4e96375562a9df39318a85aaea390.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c170_00_cut_scene_777f1ba75b757a63beac8c62014d6f75.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c170_cutscene_5ae4e96375562a9df39318a85aaea390.bundle"
     },
     {
         "Character": "Yulha",
         "ID": "c171",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c171_00_cut_scene_fcd418ce464ba06ddb0a08ae18800b49.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c171_cutscene_08fd8f738fb0eccab810c17210368cc6.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c171_00_cut_scene_fcd418ce464ba06ddb0a08ae18800b49.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c171_cutscene_08fd8f738fb0eccab810c17210368cc6.bundle"
     },
     {
         "Character": "Admi",
         "ID": "c172",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c172_00_cut_scene_65e6983c1a0efdcdef020971f7212488.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c172_cutscene_cbb68e902f738ddb9ac5fd6a864e19da.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c172_00_cut_scene_65e6983c1a0efdcdef020971f7212488.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c172_cutscene_cbb68e902f738ddb9ac5fd6a864e19da.bundle"
     },
     {
         "Character": "Guillotine",
         "ID": "c180",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c180_00_cut_scene_0ec1346a7c4fcaaf80991c4cc0a8b6eb.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c180_cutscene_2d545cb974cb27734314f1fb077bfa9d.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c180_00_cut_scene_0ec1346a7c4fcaaf80991c4cc0a8b6eb.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c180_cutscene_2d545cb974cb27734314f1fb077bfa9d.bundle"
     },
     {
         "Character": "Maiden",
         "ID": "c181",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c181_00_cut_scene_f7ac6229813345e801cf872141b102a1.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c181_cutscene_72145fe989817bcb75b6d84b293119cf.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c181_00_cut_scene_f7ac6229813345e801cf872141b102a1.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c181_cutscene_72145fe989817bcb75b6d84b293119cf.bundle"
     },
     {
         "Character": "Guillotine Winter Slayer",
         "ID": "c182",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c182_00_cut_scene_ad50a1988d00ba615d71adadfac6d88a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c182_cutscene_47fad9c41a33837e25a6e0a230e80a1b.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c182_00_cut_scene_ad50a1988d00ba615d71adadfac6d88a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c182_cutscene_47fad9c41a33837e25a6e0a230e80a1b.bundle"
     },
     {
         "Character": "Maiden Ice Rose",
         "ID": "c183",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c183_00_cut_scene_147f136be0c94034e4717f9d3d2b1cb5.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c183_cutscene_2d906f41b4fb6b268afd02b0c972ecf2.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c183_00_cut_scene_147f136be0c94034e4717f9d3d2b1cb5.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c183_cutscene_2d906f41b4fb6b268afd02b0c972ecf2.bundle"
     },
     {
         "Character": "Ludmilla",
         "ID": "c190",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c190_00_cut_scene_878c14cfe1de0e47faa75e4cfcfabbcb.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c190_cutscene_c0e2033c9e78cf6d529e6094565807db.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c190_00_cut_scene_878c14cfe1de0e47faa75e4cfcfabbcb.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c190_cutscene_c0e2033c9e78cf6d529e6094565807db.bundle"
     },
     {
         "Character": "Alice",
         "ID": "c191",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c191_00_cut_scene_41377f27d9d608e0a4996f51a16ec217.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c191_cutscene_39f13a82feafb16ce40ac1ba4aa8cc9f.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c191_00_cut_scene_41377f27d9d608e0a4996f51a16ec217.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c191_cutscene_39f13a82feafb16ce40ac1ba4aa8cc9f.bundle"
     },
     {
         "Character": "Tove",
         "ID": "c192",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c192_00_cut_scene_d3770caebd782f696fd93abdac2de88c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c192_cutscene_5f2aa6ce06dc8114d95492a6ea324651.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c192_00_cut_scene_d3770caebd782f696fd93abdac2de88c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c192_cutscene_5f2aa6ce06dc8114d95492a6ea324651.bundle"
     },
     {
         "Character": "Ludmilla Winter Owner",
         "ID": "c194",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c194_00_cut_scene_1a261159c2f263fcff9a00b1c3036c72.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c194_cutscene_29c2a0f53dca62cdfc125a8371249974.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c194_00_cut_scene_1a261159c2f263fcff9a00b1c3036c72.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c194_cutscene_29c2a0f53dca62cdfc125a8371249974.bundle"
     },
     {
         "Character": "Alice Wonderland Bunny",
         "ID": "c195",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c195_00_cut_scene_30610cfcdfc3cd431e4490d539167807.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c195_cutscene_b4e2049e434478a23d6cd55a4f8c7dfd.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c195_00_cut_scene_30610cfcdfc3cd431e4490d539167807.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c195_cutscene_b4e2049e434478a23d6cd55a4f8c7dfd.bundle"
     },
     {
         "Character": "Rupee",
         "ID": "c200",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c200_00_cut_scene_0f120d8dac3fcbfa636f7a56146b760b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_cutscene_3a3fa847881e38900096b5a6fd9f79bd.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c200_00_cut_scene_0f120d8dac3fcbfa636f7a56146b760b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_cutscene_3a3fa847881e38900096b5a6fd9f79bd.bundle"
     },
     {
         "Character": "Rupee",
         "ID": "c200",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c200_01_cut_scene_e39a30ec238573632fdc01b530010e97.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_01_cutscene_8eb583e062550594d2ed3258a3ea7f3e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c200_01_cut_scene_e39a30ec238573632fdc01b530010e97.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_01_cutscene_8eb583e062550594d2ed3258a3ea7f3e.bundle"
     },
     {
         "Character": "Yan",
         "ID": "c201",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c201_00_cut_scene_cca189b66d636c8eb2beb42c91519b9e.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c201_cutscene_f7728b995fbf39ef27d47ec40910ace0.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c201_00_cut_scene_cca189b66d636c8eb2beb42c91519b9e.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c201_cutscene_f7728b995fbf39ef27d47ec40910ace0.bundle"
     },
     {
         "Character": "Dolla",
         "ID": "c202",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c202_00_cut_scene_cc598f1f4397b055834a26a57d764e9a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c202_cutscene_4a14c4c97f8ed67c035b8d4725efbdd8.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c202_00_cut_scene_cc598f1f4397b055834a26a57d764e9a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c202_cutscene_4a14c4c97f8ed67c035b8d4725efbdd8.bundle"
     },
     {
         "Character": "Rupee Winter Shopper",
         "ID": "c203",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c203_00_cut_scene_bce9ebc57e2b6312db3cb49a675e8f61.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c203_cutscene_c20c2513e9d9a4db747ed3926a794240.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c203_00_cut_scene_bce9ebc57e2b6312db3cb49a675e8f61.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c203_cutscene_c20c2513e9d9a4db747ed3926a794240.bundle"
     },
     {
         "Character": "Exia",
         "ID": "c210",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c210_00_cut_scene_6f17f8f25cfc0003a8633abd90e69021.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c210_cutscene_740208f6e98539062d3257bb564aa68d.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c210_00_cut_scene_6f17f8f25cfc0003a8633abd90e69021.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c210_cutscene_740208f6e98539062d3257bb564aa68d.bundle"
     },
     {
         "Character": "Novel",
         "ID": "c212",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c212_00_cut_scene_d262348515e275cc0d16fb2fff580430.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c212_cutscene_89ac89e54bdbd2fe67df45be5412d680.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c212_00_cut_scene_d262348515e275cc0d16fb2fff580430.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c212_cutscene_89ac89e54bdbd2fe67df45be5412d680.bundle"
     },
     {
         "Character": "Snow White",
         "ID": "c220",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c220_00_cut_scene_e6d2a8d0b0232bee2982be28fcde9f99.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c220_cutscene_5767b7f7d16f6699d988d2269258a63c.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c220_00_cut_scene_e6d2a8d0b0232bee2982be28fcde9f99.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c220_cutscene_5767b7f7d16f6699d988d2269258a63c.bundle"
     },
     {
         "Character": "Rapunzel",
         "ID": "c221",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c221_00_cut_scene_08220df188ed44cbda7e380f79a9c705.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c221_cutscene_0416b02aa5994283f844cf508ee3fbd7.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c221_00_cut_scene_08220df188ed44cbda7e380f79a9c705.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c221_cutscene_0416b02aa5994283f844cf508ee3fbd7.bundle"
     },
     {
         "Character": "Scarlet",
         "ID": "c222",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c222_00_cut_scene_ffb30e1e08c5b23d71ff7e2a5388c010.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_cutscene_4f8b80a54a99b8758b4f1e0749d5b630.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c222_00_cut_scene_ffb30e1e08c5b23d71ff7e2a5388c010.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_cutscene_4f8b80a54a99b8758b4f1e0749d5b630.bundle"
     },
     {
         "Character": "Scarlet",
         "ID": "c222",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c222_01_cut_scene_e0b1263c4e547f6be87dc761cb805604.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_01_cutscene_2b40b316dd7e607cbe4f550d4c932017.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c222_01_cut_scene_e0b1263c4e547f6be87dc761cb805604.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_01_cutscene_2b40b316dd7e607cbe4f550d4c932017.bundle"
     },
     {
         "Character": "Snow White Innocent Days",
         "ID": "c224",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c224_00_cut_scene_84c3e60ab948ac14dd6c46eb5744eeed.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c224_cutscene_250427c8394c620aa2be90842f3c93c0.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c224_00_cut_scene_84c3e60ab948ac14dd6c46eb5744eeed.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c224_cutscene_250427c8394c620aa2be90842f3c93c0.bundle"
     },
     {
         "Character": "Scarlet Black Shadow",
         "ID": "c225",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c225_00_cut_scene_3e152d3b54fc51f43ce49a7d95461f37.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_cutscene_2606092d00834e1c00b440806b818ca7.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c225_00_cut_scene_3e152d3b54fc51f43ce49a7d95461f37.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_cutscene_2606092d00834e1c00b440806b818ca7.bundle"
     },
     {
         "Character": "Scarlet Black Shadow",
         "ID": "c225",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c225_01_cut_scene_1fcd5dcdf8467bcf682c27865f454468.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_01_cutscene_5ed1c2061d258560f33fb51b6784099b.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c225_01_cut_scene_1fcd5dcdf8467bcf682c27865f454468.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_01_cutscene_5ed1c2061d258560f33fb51b6784099b.bundle"
     },
     {
         "Character": "Rapunzel Pure Grace",
         "ID": "c226",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c226_00_cut_scene_e4a550807ced297e6a882946ee56fce6.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c226_cutscene_7ebeb123b5ec3a7324cd6e0d4f53566e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c226_00_cut_scene_e4a550807ced297e6a882946ee56fce6.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c226_cutscene_7ebeb123b5ec3a7324cd6e0d4f53566e.bundle"
     },
     {
         "Character": "Harran",
         "ID": "c230",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c230_00_cut_scene_45f09bca514ffeb50265fd1c447990f1.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c230_cutscene_4f1e4ac5a221ca6c1c804b5a44699704.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c230_00_cut_scene_45f09bca514ffeb50265fd1c447990f1.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c230_cutscene_4f1e4ac5a221ca6c1c804b5a44699704.bundle"
     },
     {
         "Character": "Isabel",
         "ID": "c231",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c231_00_cut_scene_8be93f5d32638da8560da727be075a4a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c231_cutscene_b2f2005f4f53dba310604189082dfd07.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c231_00_cut_scene_8be93f5d32638da8560da727be075a4a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c231_cutscene_b2f2005f4f53dba310604189082dfd07.bundle"
     },
     {
         "Character": "Noah",
         "ID": "c232",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c232_00_cut_scene_19720c41fc71595e4d26d867ffc4153d.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c232_cutscene_04663eeae2a77ae4ee72d7d64dcf585d.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c232_00_cut_scene_19720c41fc71595e4d26d867ffc4153d.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c232_cutscene_04663eeae2a77ae4ee72d7d64dcf585d.bundle"
     },
     {
         "Character": "Dorothy",
         "ID": "c233",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c233_00_cut_scene_86078b614ed3d47ffa71504103a45f0c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_cutscene_e536722c90093311fa957468416f1468.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c233_00_cut_scene_86078b614ed3d47ffa71504103a45f0c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_cutscene_e536722c90093311fa957468416f1468.bundle"
     },
     {
         "Character": "Dorothy",
         "ID": "c233",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c233_01_cut_scene_730f4bd39f1639c4f4c52588a933d310.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_01_cutscene_5dd123c3b45f9bc7e87fe4c340cc198a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c233_01_cut_scene_730f4bd39f1639c4f4c52588a933d310.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_01_cutscene_5dd123c3b45f9bc7e87fe4c340cc198a.bundle"
     },
     {
         "Character": "Rumani",
         "ID": "c240",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c240_00_cut_scene_348d669b1e121ae64f7efe42b2817dc4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c240_cutscene_baa459337b18e2c07707252c98a2a226.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c240_00_cut_scene_348d669b1e121ae64f7efe42b2817dc4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c240_cutscene_baa459337b18e2c07707252c98a2a226.bundle"
     },
     {
         "Character": "Epinel",
         "ID": "c241",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c241_00_cut_scene_654fc8650e94445c5ee670af062b0a49.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c241_cutscene_b42c2be865ee692b1393a25722b78789.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c241_00_cut_scene_654fc8650e94445c5ee670af062b0a49.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c241_cutscene_b42c2be865ee692b1393a25722b78789.bundle"
     },
     {
         "Character": "Folkwang",
         "ID": "c242",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c242_00_cut_scene_aa4e47bd3912363c72a37e7711ce31b7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c242_cutscene_ae665300e460a1dbcd793733b525f1da.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c242_00_cut_scene_aa4e47bd3912363c72a37e7711ce31b7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c242_cutscene_ae665300e460a1dbcd793733b525f1da.bundle"
     },
     {
         "Character": "Modernia",
         "ID": "c260",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c260_00_cut_scene_a02b6d8ab7f3021ff670f1bf9a67ad3a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_cutscene_8c2e48a7a11302730ea47e9740d006ae.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c260_00_cut_scene_a02b6d8ab7f3021ff670f1bf9a67ad3a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_cutscene_8c2e48a7a11302730ea47e9740d006ae.bundle"
     },
     {
         "Character": "Modernia",
         "ID": "c260",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c260_01_cut_scene_016198135edb261d9d770d1d1169e60e.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_01_cutscene_53f083679febb420766669d00eb37099.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c260_01_cut_scene_016198135edb261d9d770d1d1169e60e.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_01_cutscene_53f083679febb420766669d00eb37099.bundle"
     },
     {
         "Character": "Modernia",
         "ID": "c260",
         "skin_code": "02",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c260_02_cut_scene_a6503f45705bfd56836c34b14f24fe42.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_02_cutscene_785fe0ca5f4f894c5e287c5202176fd6.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c260_02_cut_scene_a6503f45705bfd56836c34b14f24fe42.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_02_cutscene_785fe0ca5f4f894c5e287c5202176fd6.bundle"
     },
     {
         "Character": "Nihilister",
         "ID": "c261",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c261_00_cut_scene_856bcaedc62143f1cc643dc7d96efc72.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c261_cutscene_d78b85f1d7267868e16845c148c01901.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c261_00_cut_scene_856bcaedc62143f1cc643dc7d96efc72.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c261_cutscene_d78b85f1d7267868e16845c148c01901.bundle"
     },
     {
         "Character": "Blanc",
         "ID": "c270",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c270_00_cut_scene_bcb94d9586da2532c3d1946c55108349.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c270_cutscene_cd27d82d089148c8e71dc9b8130a75ba.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c270_00_cut_scene_bcb94d9586da2532c3d1946c55108349.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c270_cutscene_cd27d82d089148c8e71dc9b8130a75ba.bundle"
     },
     {
         "Character": "Noir",
         "ID": "c271",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c271_00_cut_scene_3cedf16502c7be00796b98cd5a05ec3c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c271_cutscene_dcc8493015bc6ca53b00d361532a62f3.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c271_00_cut_scene_3cedf16502c7be00796b98cd5a05ec3c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c271_cutscene_dcc8493015bc6ca53b00d361532a62f3.bundle"
     },
     {
         "Character": "Rouge",
         "ID": "c272",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c272_00_cut_scene_7042175dac94469986885d5307718a0f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c272_cutscene_c8343e6dfc4a92c9dec34f9e1d027d57.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c272_00_cut_scene_7042175dac94469986885d5307718a0f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c272_cutscene_c8343e6dfc4a92c9dec34f9e1d027d57.bundle"
     },
     {
         "Character": "Rosanna",
         "ID": "c280",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c280_00_cut_scene_c5890fa347128840f7e241ae7eeb8588.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c280_cutscene_8a215aaa0ed36b12a2490a74be757f83.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c280_00_cut_scene_c5890fa347128840f7e241ae7eeb8588.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c280_cutscene_8a215aaa0ed36b12a2490a74be757f83.bundle"
     },
     {
         "Character": "Moran",
         "ID": "c281",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c281_00_cut_scene_37be3330474dd9822614063b7d76b1df.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c281_cutscene_15efcd37b3b8d8a0b4df3defe469ff78.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c281_00_cut_scene_37be3330474dd9822614063b7d76b1df.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c281_cutscene_15efcd37b3b8d8a0b4df3defe469ff78.bundle"
     },
     {
         "Character": "Sakura",
         "ID": "c282",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c282_00_cut_scene_364068f2ff30ce7c44b5159d6de12e53.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c282_cutscene_06b5dadc642d179912a7aefad68f1a2b.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c282_00_cut_scene_364068f2ff30ce7c44b5159d6de12e53.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c282_cutscene_06b5dadc642d179912a7aefad68f1a2b.bundle"
     },
     {
         "Character": "Rosanna Chic Ocean",
         "ID": "c283",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c283_00_cut_scene_efc2cea6b11518ce2b241cdc71c33b09.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c283_cutscene_056e603ec73a2247bd9ee993df982b9c.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c283_00_cut_scene_efc2cea6b11518ce2b241cdc71c33b09.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c283_cutscene_056e603ec73a2247bd9ee993df982b9c.bundle"
     },
     {
         "Character": "Sakura Bloom In Summer",
         "ID": "c284",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c284_00_cut_scene_203b4df0cfcce10529a880d1d2fa81e5.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c284_cutscene_c0e83d7942b29c45d1af32fde7ad79b4.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c284_00_cut_scene_203b4df0cfcce10529a880d1d2fa81e5.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c284_cutscene_c0e83d7942b29c45d1af32fde7ad79b4.bundle"
     },
     {
         "Character": "Mana",
         "ID": "c290",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c290_00_cut_scene_9ba259240a5047268b489d7b780c9669.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c290_cutscene_5316a14ac2cfe8555f297c62b59e2d92.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c290_00_cut_scene_9ba259240a5047268b489d7b780c9669.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c290_cutscene_5316a14ac2cfe8555f297c62b59e2d92.bundle"
     },
     {
         "Character": "Ade",
         "ID": "c310",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c310_00_cut_scene_2289b9db2f662193004bd4296bc85c9a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c310_cutscene_e3a0d1778cadde4dfc917420098255bf.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c310_00_cut_scene_2289b9db2f662193004bd4296bc85c9a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c310_cutscene_e3a0d1778cadde4dfc917420098255bf.bundle"
     },
     {
         "Character": "Cocoa",
         "ID": "c311",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c311_00_cut_scene_867034a55bd54f3d2b8e8cb7a53f2865.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c311_cutscene_6f728a77633cf2c6cc116b2aa7ccaa6d.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c311_00_cut_scene_867034a55bd54f3d2b8e8cb7a53f2865.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c311_cutscene_6f728a77633cf2c6cc116b2aa7ccaa6d.bundle"
     },
     {
         "Character": "Soda",
         "ID": "c312",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c312_00_cut_scene_73051b39717967854e3fb77fc817bf8c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c312_cutscene_c8b40a8a1f9f063ff9262f7a40eac04a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c312_00_cut_scene_73051b39717967854e3fb77fc817bf8c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c312_cutscene_c8b40a8a1f9f063ff9262f7a40eac04a.bundle"
     },
     {
         "Character": "Privaty Unkind Maid",
         "ID": "c313",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c313_00_cut_scene_524ef633c11b858e20aefb9fc988d492.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c313_cutscene_005d30027fe38106545059142ad69775.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c313_00_cut_scene_524ef633c11b858e20aefb9fc988d492.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c313_cutscene_005d30027fe38106545059142ad69775.bundle"
     },
     {
         "Character": "Soda Twinkling Bunny",
         "ID": "c314",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c314_00_cut_scene_fd3846713ee988358d5bd73f6835ff78.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c314_cutscene_a8b8e871d8e790fbd6b08284da0e9868.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c314_00_cut_scene_fd3846713ee988358d5bd73f6835ff78.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c314_cutscene_a8b8e871d8e790fbd6b08284da0e9868.bundle"
     },
     {
         "Character": "Marciana",
         "ID": "c321",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c321_00_cut_scene_34b4a88b6539b881c467e2410c9d0e15.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_cutscene_42eb11d01a8159395937723737c3e54c.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c321_00_cut_scene_34b4a88b6539b881c467e2410c9d0e15.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_cutscene_42eb11d01a8159395937723737c3e54c.bundle"
     },
     {
         "Character": "Marciana",
         "ID": "c321",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c321_01_cut_scene_71303b01836f6d1011f9c1e2cbd3da1b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_01_cutscene_6a236ff7be04f182715c46c872346e08.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c321_01_cut_scene_71303b01836f6d1011f9c1e2cbd3da1b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_01_cutscene_6a236ff7be04f182715c46c872346e08.bundle"
     },
     {
         "Character": "Crown",
         "ID": "c330",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c330_00_cut_scene_154925372213bd20ec4017a673f3d609.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_cutscene_e1fd4df6da0b930394d05e53074b5f39.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c330_00_cut_scene_154925372213bd20ec4017a673f3d609.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_cutscene_e1fd4df6da0b930394d05e53074b5f39.bundle"
     },
     {
         "Character": "Crown",
         "ID": "c330",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c330_01_cut_scene_707281d5cefcb0687910973a09f3f51d.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_01_cutscene_7543b2f8ca79ffa04e8f09852a8c7f25.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c330_01_cut_scene_707281d5cefcb0687910973a09f3f51d.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_01_cutscene_7543b2f8ca79ffa04e8f09852a8c7f25.bundle"
     },
     {
         "Character": "Mast",
         "ID": "c350",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c350_00_cut_scene_b085071ccc4ad01d2afa121504390c84.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c350_cutscene_a0cd1fbdbbd9966bcb569c3bb536881a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c350_00_cut_scene_b085071ccc4ad01d2afa121504390c84.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c350_cutscene_a0cd1fbdbbd9966bcb569c3bb536881a.bundle"
     },
     {
         "Character": "Anchor",
         "ID": "c351",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c351_00_cut_scene_644e9f08e460c2ab56452e0c9f85fd5a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c351_cutscene_f0c3a4f493b4779d3115ac504c58a491.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c351_00_cut_scene_644e9f08e460c2ab56452e0c9f85fd5a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c351_cutscene_f0c3a4f493b4779d3115ac504c58a491.bundle"
     },
     {
         "Character": "Helm",
         "ID": "c352",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c352_00_cut_scene_ded17c4eff1190b042222afaeabe0fde.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_cutscene_a91dfe750329547f13d62824752880ad.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c352_00_cut_scene_ded17c4eff1190b042222afaeabe0fde.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_cutscene_a91dfe750329547f13d62824752880ad.bundle"
     },
     {
         "Character": "Helm",
         "ID": "c352",
         "skin_code": "02",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c352_02_cut_scene_c5479074bab3aa475bd8a0e8b2606e5f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_02_cutscene_5c0da93864cd370d560bf59a37aabdff.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c352_02_cut_scene_c5479074bab3aa475bd8a0e8b2606e5f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_02_cutscene_5c0da93864cd370d560bf59a37aabdff.bundle"
     },
     {
         "Character": "Helm Aquamarine",
         "ID": "c353",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c353_00_cut_scene_45d9c8632e02b1cb821b7576787d6d3e.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c353_cutscene_14238c8a3b0f9caf075ebfa7faf8e42a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c353_00_cut_scene_45d9c8632e02b1cb821b7576787d6d3e.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c353_cutscene_14238c8a3b0f9caf075ebfa7faf8e42a.bundle"
     },
     {
         "Character": "Mast Romantic Maid",
         "ID": "c354",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c354_00_cut_scene_f7af51104280642ef78b9d9fc414264c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c354_cutscene_c249c8a104f2fa6c6f594e1a5cbf33f4.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c354_00_cut_scene_f7af51104280642ef78b9d9fc414264c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c354_cutscene_c249c8a104f2fa6c6f594e1a5cbf33f4.bundle"
     },
     {
         "Character": "Anchor Innocent Maid",
         "ID": "c355",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c355_00_cut_scene_88248ca47ad6201d6bcf446a33fd694b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c355_cutscene_c4f3738b755c41ade963f3daf78b22f1.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c355_00_cut_scene_88248ca47ad6201d6bcf446a33fd694b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c355_cutscene_c4f3738b755c41ade963f3daf78b22f1.bundle"
     },
     {
         "Character": "Kilo",
         "ID": "c361",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c361_00_cut_scene_68b9233917a8b2f55bb9f44be5926070.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c361_cutscene_f9330819df309bfdb8a555655d54f931.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c361_00_cut_scene_68b9233917a8b2f55bb9f44be5926070.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c361_cutscene_f9330819df309bfdb8a555655d54f931.bundle"
     },
     {
         "Character": "Nero",
         "ID": "c380",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c380_00_cut_scene_d205a3bebd05b0e12f4a7538f833de9f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c380_cutscene_931689b6a8a677de225e302112940699.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c380_00_cut_scene_d205a3bebd05b0e12f4a7538f833de9f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c380_cutscene_931689b6a8a677de225e302112940699.bundle"
     },
     {
         "Character": "Biscuit",
         "ID": "c381",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c381_00_cut_scene_5bfee0a1defc0a02c3306580ad854109.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c381_cutscene_797b8d8aa73470c814872f25e3996e31.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c381_00_cut_scene_5bfee0a1defc0a02c3306580ad854109.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c381_cutscene_797b8d8aa73470c814872f25e3996e31.bundle"
     },
     {
         "Character": "Leona",
         "ID": "c382",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c382_00_cut_scene_d5b71ce7ab7a03f373c16a5e177e16f6.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c382_cutscene_578aa728eef19934aff142748f1c2ab7.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c382_00_cut_scene_d5b71ce7ab7a03f373c16a5e177e16f6.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c382_cutscene_578aa728eef19934aff142748f1c2ab7.bundle"
     },
     {
         "Character": "Zwei",
         "ID": "c390",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c390_00_cut_scene_c4cf9f6fcb0a0ead24edcc974a279b7b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c390_cutscene_d9c9a5a68714527a970c1a8959e36303.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c390_00_cut_scene_c4cf9f6fcb0a0ead24edcc974a279b7b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c390_cutscene_d9c9a5a68714527a970c1a8959e36303.bundle"
     },
     {
         "Character": "Ein",
         "ID": "c391",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c391_00_cut_scene_d5dee25eff402b05466d693176018cf2.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c391_cutscene_354839c9ff096947114639e845dc0df1.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c391_00_cut_scene_d5dee25eff402b05466d693176018cf2.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c391_cutscene_354839c9ff096947114639e845dc0df1.bundle"
     },
     {
         "Character": "Rei",
         "ID": "c392",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c392_00_cut_scene_62e1e092adb3917cfd272bba3f8dd397.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c392_cutscene_87a5130009ffc809fcfa67efe73a5dec.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c392_00_cut_scene_62e1e092adb3917cfd272bba3f8dd397.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c392_cutscene_87a5130009ffc809fcfa67efe73a5dec.bundle"
     },
     {
         "Character": "Guilty",
         "ID": "c400",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c400_00_cut_scene_30492619d755cdf0d0a1d4bf27ff34cc.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c400_cutscene_a9d06f3e43a9913258d33628fce8cdbc.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c400_00_cut_scene_30492619d755cdf0d0a1d4bf27ff34cc.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c400_cutscene_a9d06f3e43a9913258d33628fce8cdbc.bundle"
     },
     {
         "Character": "Sin",
         "ID": "c401",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c401_00_cut_scene_77987b83e143f0d8e420a5dae9e10484.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c401_cutscene_0ea8f3d98affc28c3aa73440bf73d3be.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c401_00_cut_scene_77987b83e143f0d8e420a5dae9e10484.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c401_cutscene_0ea8f3d98affc28c3aa73440bf73d3be.bundle"
     },
     {
         "Character": "Quency",
         "ID": "c402",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c402_00_cut_scene_934ffc076ca7bdc3f8505254452bb56c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c402_cutscene_6368ec8f86e364a61d1a4ee55b55d979.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c402_00_cut_scene_934ffc076ca7bdc3f8505254452bb56c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c402_cutscene_6368ec8f86e364a61d1a4ee55b55d979.bundle"
     },
     {
         "Character": "Quency Escape Queen",
         "ID": "c403",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c403_00_cut_scene_443456f85d4a27d9aa7df50da5be98a3.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c403_cutscene_f6b6ef294b358070be86de2c534a56a5.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c403_00_cut_scene_443456f85d4a27d9aa7df50da5be98a3.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c403_cutscene_f6b6ef294b358070be86de2c534a56a5.bundle"
     },
     {
         "Character": "Flora",
         "ID": "c411",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c411_00_cut_scene_06ab3c4666206416593742ee482be02a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c411_cutscene_1949945d42653b53c4344c814d455700.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c411_00_cut_scene_06ab3c4666206416593742ee482be02a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c411_cutscene_1949945d42653b53c4344c814d455700.bundle"
     },
     {
         "Character": "Trina",
         "ID": "c412",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c412_00_cut_scene_54f0f573e6b00d166cc1f39547c1dd26.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c412_cutscene_573b1c5696fb74f5c2512e5432bc9ea0.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c412_00_cut_scene_54f0f573e6b00d166cc1f39547c1dd26.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c412_cutscene_573b1c5696fb74f5c2512e5432bc9ea0.bundle"
     },
     {
         "Character": "Noise",
         "ID": "c430",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c430_00_cut_scene_e7420cf8e76d600b81bc4219426fe8a5.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_cutscene_1987085ff246352f65ad8855e39dbf7e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c430_00_cut_scene_e7420cf8e76d600b81bc4219426fe8a5.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_cutscene_1987085ff246352f65ad8855e39dbf7e.bundle"
     },
     {
         "Character": "Noise",
         "ID": "c430",
         "skin_code": "02",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c430_02_cut_scene_5b864785a331a9d051eb8d8af86f6ffc.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_02_cutscene_22512f224dc5d3fc395d9a923ccac8e9.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c430_02_cut_scene_5b864785a331a9d051eb8d8af86f6ffc.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_02_cutscene_22512f224dc5d3fc395d9a923ccac8e9.bundle"
     },
     {
         "Character": "Volume",
         "ID": "c431",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c431_00_cut_scene_08972da8a681265677435de7b0861b42.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c431_cutscene_1ef34e5462d61fd6c9443682f6f4d9e0.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c431_00_cut_scene_08972da8a681265677435de7b0861b42.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c431_cutscene_1ef34e5462d61fd6c9443682f6f4d9e0.bundle"
     },
     {
         "Character": "Aria",
         "ID": "c432",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c432_00_cut_scene_78301b8df648f3704cdf8d370d5ea43b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c432_cutscene_cf4101da151edb44b1662e22bc2fede2.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c432_00_cut_scene_78301b8df648f3704cdf8d370d5ea43b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c432_cutscene_cf4101da151edb44b1662e22bc2fede2.bundle"
     },
     {
         "Character": "Naga",
         "ID": "c450",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c450_00_cut_scene_43c33c28abbfcc884bce63b214b8dc7b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_cutscene_12f9b62adc65ec9bf2fe03e6234fe700.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c450_00_cut_scene_43c33c28abbfcc884bce63b214b8dc7b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_cutscene_12f9b62adc65ec9bf2fe03e6234fe700.bundle"
     },
     {
         "Character": "Naga",
         "ID": "c450",
         "skin_code": "02",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c450_02_cut_scene_c550524fa124cf1b678823f0b8b02eac.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_02_cutscene_98ae4f7ea2e13126dc0ef968be793dc5.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c450_02_cut_scene_c550524fa124cf1b678823f0b8b02eac.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_02_cutscene_98ae4f7ea2e13126dc0ef968be793dc5.bundle"
     },
     {
         "Character": "Tia",
         "ID": "c451",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c451_00_cut_scene_483fbec065d6db0861117db777abe4e4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c451_cutscene_e04a276a5593823bc910e95a79ec218e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c451_00_cut_scene_483fbec065d6db0861117db777abe4e4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c451_cutscene_e04a276a5593823bc910e95a79ec218e.bundle"
     },
     {
         "Character": "Red Hood",
         "ID": "c470",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c470_00_cut_scene_c64ce7c49aae9c285f55fb68dafd6312.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_cutscene_24006ed3970b210046dc91921829dc17.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c470_00_cut_scene_c64ce7c49aae9c285f55fb68dafd6312.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_cutscene_24006ed3970b210046dc91921829dc17.bundle"
     },
     {
         "Character": "Red Hood",
         "ID": "c470",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c470_01_cut_scene_bb2c7f32e98f2b9abcf65f40f96eeda7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_01_cutscene_3cfd47926fbbb736b6e29cfdaaf97952.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c470_01_cut_scene_bb2c7f32e98f2b9abcf65f40f96eeda7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_01_cutscene_3cfd47926fbbb736b6e29cfdaaf97952.bundle"
     },
     {
         "Character": "Elegg",
         "ID": "c500",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c500_00_cut_scene_cda3c92016eeb9100c75075e97403ee7.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c500_cutscene_491a87266765b9d2f8dc60c0bf74dca0.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c500_00_cut_scene_cda3c92016eeb9100c75075e97403ee7.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c500_cutscene_491a87266765b9d2f8dc60c0bf74dca0.bundle"
     },
     {
         "Character": "Trony",
         "ID": "c501",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c501_00_cut_scene_86e883730d9a861476fe43f5235e97ec.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c501_cutscene_a2c72e8a835254c4491f438da791ba66.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c501_00_cut_scene_86e883730d9a861476fe43f5235e97ec.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c501_cutscene_a2c72e8a835254c4491f438da791ba66.bundle"
     },
     {
         "Character": "Cinderella",
         "ID": "c511",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c511_00_cut_scene_8dad9e828b1db9d9532149f6e94819ff.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_cutscene_3d0a2eef24fcf92b923fb27348d4861c.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c511_00_cut_scene_8dad9e828b1db9d9532149f6e94819ff.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_cutscene_3d0a2eef24fcf92b923fb27348d4861c.bundle"
     },
     {
         "Character": "Cinderella",
         "ID": "c511",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c511_01_cut_scene_6ffb84e91339d287c8ea335738f456a4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_01_cutscene_a60354112ac8ef15a9a118b8a269219e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c511_01_cut_scene_6ffb84e91339d287c8ea335738f456a4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_01_cutscene_a60354112ac8ef15a9a118b8a269219e.bundle"
     },
     {
         "Character": "Little Mermaid",
         "ID": "c513",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c513_00_cut_scene_9380e2f67fc20684ef5dbe93998da2e8.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_cutscene_688f4dd0f3d322bff5f5ab2d719c181f.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c513_00_cut_scene_9380e2f67fc20684ef5dbe93998da2e8.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_cutscene_688f4dd0f3d322bff5f5ab2d719c181f.bundle"
     },
     {
         "Character": "Little Mermaid",
         "ID": "c513",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c513_01_cut_scene_88ed400dba19cddfaec52afb5293dd77.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_01_cutscene_f7308912c4b4a6b7bd22ff5a321bc6b7.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c513_01_cut_scene_88ed400dba19cddfaec52afb5293dd77.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_01_cutscene_f7308912c4b4a6b7bd22ff5a321bc6b7.bundle"
     },
     {
         "Character": "Grave",
         "ID": "c514",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c514_00_cut_scene_cdd87495a1780fcfd1b4d65846f6e66a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c514_cutscene_6420744ac24eb0f5d5bd827fd52e4cdc.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c514_00_cut_scene_cdd87495a1780fcfd1b4d65846f6e66a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c514_cutscene_6420744ac24eb0f5d5bd827fd52e4cdc.bundle"
     },
     {
         "Character": "Bready",
         "ID": "c520",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c520_00_cut_scene_83f193774e5e68b8e547e179a17ca43e.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c520_cutscene_1a9547b12df2a3c766d5237eb863cef4.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c520_00_cut_scene_83f193774e5e68b8e547e179a17ca43e.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c520_cutscene_1a9547b12df2a3c766d5237eb863cef4.bundle"
     },
     {
         "Character": "Crust",
         "ID": "c521",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c521_00_cut_scene_333a8cfe40e4ab98d822e7e6597f2201.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c521_cutscene_2e3dbde320e1619f4986d2356da05464.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c521_00_cut_scene_333a8cfe40e4ab98d822e7e6597f2201.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c521_cutscene_2e3dbde320e1619f4986d2356da05464.bundle"
+    },
+    {
+        "Character": "Sora",
+        "ID": "c532",
+        "skin_code": "00",
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c532_00_cut_scene_5c82283ebc0bdc699c2009a030b6b6bd.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c532_cutscene_c0b7b7e54b11ddd27e622f8ab2becb1a.bundle"
     },
     {
         "Character": "Bay",
         "ID": "c550",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c550_00_cut_scene_83bc8c0908c03b9345c174f5fe51a28c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c550_cutscene_c773db3079fa0622f6c6bca0a2e6c123.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c550_00_cut_scene_83bc8c0908c03b9345c174f5fe51a28c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c550_cutscene_c773db3079fa0622f6c6bca0a2e6c123.bundle"
     },
     {
         "Character": "Clay",
         "ID": "c551",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c551_00_cut_scene_9fd70ef6dd61b25b9932135bb7f52ef8.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c551_cutscene_49036a3e41f4a4d4c9b5fcf21bb9072e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c551_00_cut_scene_9fd70ef6dd61b25b9932135bb7f52ef8.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c551_cutscene_49036a3e41f4a4d4c9b5fcf21bb9072e.bundle"
     },
     {
         "Character": "Phantom",
         "ID": "c580",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c580_00_cut_scene_11d997bfeb4c82b4002b48f5ddcfd79d.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c580_cutscene_c04dbfb1f82c349fdea26943b244e123.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c580_00_cut_scene_11d997bfeb4c82b4002b48f5ddcfd79d.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c580_cutscene_c04dbfb1f82c349fdea26943b244e123.bundle"
     },
     {
         "Character": "Arcana",
         "ID": "c581",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c581_00_cut_scene_859cf6480e86bb053d0ebea4c3bb06f2.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c581_cutscene_c8644588697795566350225c0700b017.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c581_00_cut_scene_859cf6480e86bb053d0ebea4c3bb06f2.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c581_cutscene_c8644588697795566350225c0700b017.bundle"
     },
     {
         "Character": "Mori",
         "ID": "c590",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c590_00_cut_scene_5169c24b93539787a9bab1a1cebdba51.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c590_cutscene_fcabe4308c27bc54677b030478a322fa.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c590_00_cut_scene_5169c24b93539787a9bab1a1cebdba51.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c590_cutscene_fcabe4308c27bc54677b030478a322fa.bundle"
     },
     {
         "Character": "Makima",
         "ID": "c800",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c800_00_cut_scene_927b048d9912bf1b2cdfcbc02eab2762.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c800_cutscene_6dd5b82f805dee895beaba9cfb58a9ad.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c800_00_cut_scene_927b048d9912bf1b2cdfcbc02eab2762.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c800_cutscene_6dd5b82f805dee895beaba9cfb58a9ad.bundle"
     },
     {
         "Character": "Power",
         "ID": "c801",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c801_00_cut_scene_71b6c28e403020d8ebf9515d5b81d820.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c801_cutscene_ff8c3518b320870e9e9f806c45a35458.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c801_00_cut_scene_71b6c28e403020d8ebf9515d5b81d820.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c801_cutscene_ff8c3518b320870e9e9f806c45a35458.bundle"
     },
     {
         "Character": "Himeno",
         "ID": "c802",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c802_00_cut_scene_653b429339c948245210218d2d071f06.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c802_cutscene_2b63b95fd564badd47fbc7eda4209d7f.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c802_00_cut_scene_653b429339c948245210218d2d071f06.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c802_cutscene_2b63b95fd564badd47fbc7eda4209d7f.bundle"
     },
     {
         "Character": "2B",
         "ID": "c810",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c810_00_cut_scene_4fe9ce63b79c831e13d0fb1bacaac205.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_cutscene_e83887d731c01ef8e447024eb9da7915.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c810_00_cut_scene_4fe9ce63b79c831e13d0fb1bacaac205.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_cutscene_e83887d731c01ef8e447024eb9da7915.bundle"
     },
     {
         "Character": "2B",
         "ID": "c810",
         "skin_code": "02",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c810_02_cut_scene_d1ddedeec5d428eceff885ad0fb549e0.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_02_cutscene_b8cfea1f41e92ed9f46151ad480e1349.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c810_02_cut_scene_d1ddedeec5d428eceff885ad0fb549e0.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_02_cutscene_b8cfea1f41e92ed9f46151ad480e1349.bundle"
     },
     {
         "Character": "A2",
         "ID": "c811",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c811_00_cut_scene_a351da3a2bbe325b05b4c99a5e7fa28f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c811_cutscene_7bdf9dc14705740db49ae92b8523873a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c811_00_cut_scene_a351da3a2bbe325b05b4c99a5e7fa28f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c811_cutscene_7bdf9dc14705740db49ae92b8523873a.bundle"
     },
     {
         "Character": "Pascal",
         "ID": "c812",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c812_00_cut_scene_aa2291bfa27785e21106133965558c2d.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c812_cutscene_d66fb8bff96a2b70c1784ad116c11ab4.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c812_00_cut_scene_aa2291bfa27785e21106133965558c2d.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c812_cutscene_d66fb8bff96a2b70c1784ad116c11ab4.bundle"
     },
     {
         "Character": "Rem",
         "ID": "c820",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c820_00_cut_scene_347c546d132ff3aca31b3cd19f2dec2a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c820_cutscene_49244d2e5991f10dc713740fc0debdc5.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c820_00_cut_scene_347c546d132ff3aca31b3cd19f2dec2a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c820_cutscene_49244d2e5991f10dc713740fc0debdc5.bundle"
     },
     {
         "Character": "Emilia",
         "ID": "c821",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c821_00_cut_scene_1feed60b879a64997d3c7b41989be9bc.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_cutscene_e637971cc2f1bb6dd80867a78cc6eaec.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c821_00_cut_scene_1feed60b879a64997d3c7b41989be9bc.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_cutscene_e637971cc2f1bb6dd80867a78cc6eaec.bundle"
     },
     {
         "Character": "Emilia",
         "ID": "c821",
         "skin_code": "01",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c821_01_cut_scene_d6478e2d7919a7e7e3553d1af9df9313.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_01_cutscene_a37637bcb0a15e002027f8c2936fb28a.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c821_01_cut_scene_d6478e2d7919a7e7e3553d1af9df9313.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_01_cutscene_a37637bcb0a15e002027f8c2936fb28a.bundle"
     },
     {
         "Character": "Ram",
         "ID": "c822",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c822_00_cut_scene_bdebf4d006acd370e6375eb02c8e0caa.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c822_cutscene_f893fefd34eb019257169aa473f1490c.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c822_00_cut_scene_bdebf4d006acd370e6375eb02c8e0caa.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c822_cutscene_f893fefd34eb019257169aa473f1490c.bundle"
     },
     {
         "Character": "Asuka",
         "ID": "c830",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c830_00_cut_scene_bfa99b83f62d7b5ac1611a689a97ab2f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_cutscene_a239aaed4b64c5eaf4cdce90b6ae6081.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c830_00_cut_scene_bfa99b83f62d7b5ac1611a689a97ab2f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_cutscene_a239aaed4b64c5eaf4cdce90b6ae6081.bundle"
     },
     {
         "Character": "Asuka",
         "ID": "c830",
         "skin_code": "03",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c830_03_cut_scene_95903af9b1dfa31475b866a6ba7a0142.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_03_cutscene_0d0998ddb1a5f694ba4662880f56151f.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c830_03_cut_scene_95903af9b1dfa31475b866a6ba7a0142.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_03_cutscene_0d0998ddb1a5f694ba4662880f56151f.bundle"
     },
     {
         "Character": "Rei Ayanami",
         "ID": "c831",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c831_00_cut_scene_055aa179e361b71ad243b1d941c9fd89.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c831_cutscene_aea505a64213e414d867466103ef1d7f.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c831_00_cut_scene_055aa179e361b71ad243b1d941c9fd89.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c831_cutscene_aea505a64213e414d867466103ef1d7f.bundle"
     },
     {
         "Character": "Mari",
         "ID": "c832",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c832_00_cut_scene_246abcf817b68a4d878735a71d214163.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c832_cutscene_ac73bbce4ca52d011df55ca54801a7af.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c832_00_cut_scene_246abcf817b68a4d878735a71d214163.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c832_cutscene_ac73bbce4ca52d011df55ca54801a7af.bundle"
     },
     {
         "Character": "Misato",
         "ID": "c833",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c833_00_cut_scene_d6801905adb6dc3d1764e3e40ede0244.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c833_cutscene_b5baba5202143179234bca432528b169.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c833_00_cut_scene_d6801905adb6dc3d1764e3e40ede0244.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c833_cutscene_b5baba5202143179234bca432528b169.bundle"
     },
     {
         "Character": "Rei Ayanami NERV",
         "ID": "c834",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c834_00_cut_scene_7bb0b29c4fe8d67c93f1c3072f2cd92d.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c834_cutscene_adb287b62a59a098c70791cbd3715c7e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c834_00_cut_scene_7bb0b29c4fe8d67c93f1c3072f2cd92d.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c834_cutscene_adb287b62a59a098c70791cbd3715c7e.bundle"
     },
     {
         "Character": "Asuka WILLE",
         "ID": "c835",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c835_00_cut_scene_1aafed4fc8103c186125c6f5015ab6a4.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c835_cutscene_3948b1ed107ecf731dd106ecbd916a16.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c835_00_cut_scene_1aafed4fc8103c186125c6f5015ab6a4.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c835_cutscene_3948b1ed107ecf731dd106ecbd916a16.bundle"
     },
     {
         "Character": "Sakura Suzuhara",
         "ID": "c836",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c836_00_cut_scene_e86df2bbb05d073e38ba1a57d806d53c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c836_cutscene_177eafbf32961f04a515c74b315c15c3.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c836_00_cut_scene_e86df2bbb05d073e38ba1a57d806d53c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c836_cutscene_177eafbf32961f04a515c74b315c15c3.bundle"
     },
     {
         "Character": "EVE",
         "ID": "c850",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c850_00_cut_scene_92fa3c1bcc14222b2b28c0ac77e81380.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_cutscene_dd10949c15aa18e164f611ebc92a4a64.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c850_00_cut_scene_92fa3c1bcc14222b2b28c0ac77e81380.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_cutscene_dd10949c15aa18e164f611ebc92a4a64.bundle"
     },
     {
         "Character": "EVE",
         "ID": "c850",
         "skin_code": "03",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c850_03_cut_scene_3db17a3e75d30ce40831c9d7fd95246b.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_03_cutscene_47b02ddf0d87dbb640c466a71c5cce7c.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c850_03_cut_scene_3db17a3e75d30ce40831c9d7fd95246b.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_03_cutscene_47b02ddf0d87dbb640c466a71c5cce7c.bundle"
     },
     {
         "Character": "Raven",
         "ID": "c851",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c851_00_cut_scene_fe11dddbbe9bda579a4c0add6cbd4a5e.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c851_cutscene_a6d10d08ab7c5ec6731fba14c5b49309.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c851_00_cut_scene_fe11dddbbe9bda579a4c0add6cbd4a5e.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c851_cutscene_a6d10d08ab7c5ec6731fba14c5b49309.bundle"
     },
     {
         "Character": "Lily",
         "ID": "c852",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c852_00_cut_scene_25a7f56b286fc1bf07f8080cada2e93f.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c852_cutscene_242083f6b3f99e6b0e64b7e5cb10347e.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c852_00_cut_scene_25a7f56b286fc1bf07f8080cada2e93f.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c852_cutscene_242083f6b3f99e6b0e64b7e5cb10347e.bundle"
     },
     {
         "Character": "Syuen",
         "ID": "c901",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c901_00_cut_scene_c34dac5db556e422ca204b42014a4d9a.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c901_cutscene_43d927589ea019e79fac10a6f84da932.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c901_00_cut_scene_c34dac5db556e422ca204b42014a4d9a.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c901_cutscene_43d927589ea019e79fac10a6f84da932.bundle"
     },
     {
         "Character": "Shifty",
         "ID": "c907",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c907_00_cut_scene_b84ce1adf7ac6c506b646405e4a7331c.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c907_cutscene_a4c97fb082123544d07c4cabe13e6420.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c907_00_cut_scene_b84ce1adf7ac6c506b646405e4a7331c.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c907_cutscene_a4c97fb082123544d07c4cabe13e6420.bundle"
     },
     {
         "Character": "Mecha Shifty",
         "ID": "c993",
         "skin_code": "00",
-        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/spotskillcutscene_assets_c993_00_cut_scene_84c07f94376192e0949c5f865dfac6d1.bundle",
-        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-bac9cf1d39/StandaloneWindows64/core/134.8.13R/livewallpaperprefabs_assets_livewallpaper/eventscene_c993_cutscene_e2ba9d2d34e890c9fc0cba712161de1b.bundle"
+        "burst_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/spotskillcutscene_assets_c993_00_cut_scene_84c07f94376192e0949c5f865dfac6d1.bundle",
+        "lobby_id": "https://cloud.nikke-kr.com/prdenv/134-b50c98eb0c/StandaloneWindows64/core/134.14.8B/livewallpaperprefabs_assets_livewallpaper/eventscene_c993_cutscene_e2ba9d2d34e890c9fc0cba712161de1b.bundle"
     }
 ]

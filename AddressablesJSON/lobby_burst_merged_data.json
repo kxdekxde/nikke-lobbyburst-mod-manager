@@ -959,6 +959,13 @@
         "lobby_id": "2e3dbde320e1619f4986d2356da05464"
     },
     {
+        "Character": "Sora",
+        "ID": "c532",
+        "skin_code": "00",
+        "burst_id": "5c82283ebc0bdc699c2009a030b6b6bd",
+        "lobby_id": "c0b7b7e54b11ddd27e622f8ab2becb1a"
+    },
+    {
         "Character": "Bay",
         "ID": "c550",
         "skin_code": "00",
