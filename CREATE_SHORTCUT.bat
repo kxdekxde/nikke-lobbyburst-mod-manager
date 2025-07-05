@@ -2,7 +2,7 @@
 setlocal
 
 :: Set the paths
-set SCRIPT_NAME=NLBMM.bat
+set SCRIPT_NAME=NLBMM.pyw
 set ICON_NAME=icon.ico
 set SHORTCUT_NAME=NLBMM.lnk
 

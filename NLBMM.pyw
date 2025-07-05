@@ -464,7 +464,7 @@ class SpineViewer(QWidget):
             }
             QTableWidget {
                 gridline-color: #3d3d3d;
-                border: none;
+                border: 1px solid #3d3d3d;
             }
             QHeaderView::section {
                 background-color: #2d2d2d;
@@ -719,7 +719,7 @@ class SpineViewer(QWidget):
         
         actions_widget = QWidget()
         actions_layout = QHBoxLayout(actions_widget)
-        actions_layout.setContentsMargins(5, 0, 5, 0)
+        actions_layout.setContentsMargins(5, 0, 10, 0)
         actions_layout.setSpacing(5)
         
         preview_btn = QPushButton("Preview")

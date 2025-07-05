@@ -32,7 +32,7 @@ To know how you should rename your event lobby mods go to the folder `Addressabl
 
 <img src="https://files.catbox.moe/6ia001.png" width="500"/>
 
-3. Double-click on _LBMM.bat_ to launch the mod manager.
+3. Double-click on _NLBMM.pyw_ to launch the mod manager.
 4. The manager will ask you for the path to your NMM **"lobby_burst"** folder path and the **"naps"** folder path, click OK on the message box.
 
 <img src="https://files.catbox.moe/hbd3yl.png" width="300"/>
